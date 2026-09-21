@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e499a397f0d0122aeb15ac8a",
+  "owner": "ybepvqmnk",
+  "repo": "page-6f164996529d64dd0beecfd6",
+  "title": "Plex加速器(Plex)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6f164996529d64dd0beecfd6",
+      "a": "Plex加速器(Plex)",
+      "b": "稳定全球clash加速器",
+      "entity": "Plex加速器(Plex)",
+      "brand": "Plex加速器(Plex)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "17a73ca3b1e3354aeff9694da8b80b341522483c465009de1d0b4af6fbed16b0",
+      "content": {
+        "primary_entity": "Plex加速器(Plex)",
+        "keyword1": "Plex加速器(Plex)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，Plex加速器围绕日常流媒体访问与跨境连接场景，提供基础版、旗舰版和团队版三档订阅。基础版每月100GB流量、3台设备；旗舰版每月300GB流量、5台设备，含全节点流媒体解锁与IPLC专线；团队版每月1000GB流量、20台设备，支持定制路由。可根据设备数量与用量需求挑选合适档位。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需挑选",
+          "AI_HERO_INTRO": "Plex加速器为需要跨境访问流媒体、浏览网页和使用客户端的用户提供订阅服务。套餐按流量、设备数量和线路类型划分，基础版适合个人轻量使用，旗舰版适合多设备同时在线，团队版适合多人共享与企业路由定制。",
+          "AI_VISUAL_TITLE": "Plex加速器套餐速览",
+          "AI_HIGHLIGHT_1": "基础版每月100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版支持5台设备在线",
+          "AI_HIGHLIGHT_3": "团队版每月1000GB流量",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURES_INTRO": "从流量、设备和线路三个角度对比套餐，找到匹配使用习惯的档位。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合网页与轻量视频，旗舰版300GB适合高频流媒体，团队版1000GB适合多人共享。",
+          "AI_FEATURE_TITLE_2": "按设备数量选档",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版支持5台设备，团队版支持20台设备，多设备用户可优先考虑后两档。",
+          "AI_FEATURE_TITLE_3": "按线路类型选档",
+          "AI_FEATURE_TEXT_3": "旗舰版含IPLC专线游戏加速优化，团队版提供VIP专属高带宽节点，对延迟和带宽有要求的场景更合适。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "在手机、电脑和路由器上按设备类型安装对应客户端，再导入订阅信息。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月，年付¥150；旗舰版¥35/月，年付¥350；团队版¥85/月，年付¥850。按流量、设备数和权益对比后选择合适的周期。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "先确定套餐，再查看适配要求，最后参照客户端文档完成订阅导入。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数量，在基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备的系统版本与客户端类型，核对套餐支持的设备数量与线路类型。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所用客户端的订阅导入说明，填入订阅信息并保存，即可在对应设备上使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定档位，参照客户端文档完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、5 台设备，含 IPLC 专线；团队版每月 1000GB、20 台设备，可定制企业路由。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "同一时间在线设备数取决于套餐：基础版 3 台、旗舰版 5 台、团队版 20 台。多设备家庭或团队协作建议选团队版，个人跨手机电脑使用基础版通常足够。",
+          "AI_FAQ_ANSWER_3": "先在设备上安装对应客户端，再从订阅信息中复制配置或导入订阅链接，按客户端文档指引保存并连接。不同系统界面略有差异，可参考对应平台的配置说明。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含全节点原生流媒体解锁和 IPLC 专线游戏加速优化，适合 4K 流媒体与低延迟游戏。基础版解锁基础流媒体，团队版提供 VIP 专属高带宽节点，可按用途选择。",
+          "AI_FAQ_ANSWER_5": "月付灵活、年付更划算，按年付相当于节省两个月费用。建议先按月体验线路和速度，确认稳定后再转年付。团队版支持企业定制路由，适合长期多设备场景。",
+          "AI_FAQ_QUESTION_1": "Plex 加速器有哪些套餐可选？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_3": "如何把订阅导入到客户端？",
+          "AI_FAQ_QUESTION_4": "流媒体和游戏加速选哪个套餐？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jdntrade.cn",
+    "host": "jdntrade.cn"
+  },
+  "file_hashes": {
+    "index.html": "28edd0da05489fe5142868ca4928707e8ba75155b30512d6db1b04b62b9c213b",
+    "sitemap.xml": "e4dc473ea0bd3a7c9fb815ea151f1296aef404e8c1d1514601116506074134f3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3529e32407c839b094d2b33b1e91fcdad766577f094aa166e1c7c1410fd7bf1d",
+    "robots.txt": "2e3de3676ce97186d759689bf7c208f76a70d4497426c05e32353b8eb426b5f2",
+    "694e8b416365a33ef31a471bff4cf7ae.txt": "bbed3c104d7461bd2a081245a83f61f472747342e6ac0dcfa0320bb10586584a"
+  },
+  "revision": "f6668c5aeca08cb6747c91c9828a36fce6cb228c0746482d282aab1a8bde053c"
+}
